@@ -1,0 +1,12 @@
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\obj\Debug\BankingSoln.csprojResolveAssemblyReference.cache
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\604780\Desktop\Piyali\Acct_Assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\obj\Debug\BankingSoln.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\Work\Acct_Assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
